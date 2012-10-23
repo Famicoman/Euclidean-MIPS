@@ -1,0 +1,8 @@
+README
+
+Two programs that calculated the greatest common factor of two numbers using the Euclidean algorithm.
+Written in MIPS assembly. Tested in PCspim.
+
+The first of these was an iterative approach. The program asks the users for integers in main, and then calls a function which contains a loop to calculate the greatest common factor.  
+
+The second program also takes user input of two integers through main, but has a recursive implementation of the Euclid algorithm that calls itself to calculate the greatest common factor.
